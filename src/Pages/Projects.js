@@ -17,7 +17,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/shaansuraj/Instagram-Clone/blob/main/instaclone.jpg"
+              imgPath="https://drive.google.com/uc?export=download&id=14So4oKavON5lTHol65Oj0YSpRu66_Zjw"
               title="Instagram-Clone"
               description="Instagram is the most used social media platform. The features it uses to connect people all around the world is amazing. Check this instagram clone developed by Suraj Sahu using MERN Stack and AWS IAM for security. The features and functions of this clone is comparable to the real one. The features like Reels and Add to story is still under development."              link="https://github.com/shaansuraj/Instagram-Clone"
             />
@@ -33,7 +33,7 @@ function Projects() {
 
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://github.com/shaansuraj/Magic-Notes/blob/main/magic-notes.png"
+              imgPath="https://drive.google.com/uc?export=download&id=1LR73TZdsb6DsPb63UOa_3os7Krl5R6m7"
               title="Magic-Notes"
               description="It is a simple wesite where you can add and delete your notes. The notes will be stored in the local storage. Suraj Sahu has developed this website using Javascript and Php"              link="https://github.com/shaansuraj/Magic-Notes"
             />
