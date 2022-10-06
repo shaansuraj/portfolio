@@ -24,7 +24,7 @@ function Projects() {
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://drive.google.com/file/d/1QADlqjaxC3YOFN-OvNvfeC0eoZZ5iGlC/view?usp=sharing"
+              imgPath="https://drive.google.com/uc?export=download&id=1QADlqjaxC3YOFN-OvNvfeC0eoZZ5iGlC"
               title="ChatApp"
               description="ChatApp is a realtime chatting web application where you can send messages to your friends and receive simultaneously. This was developed by Suraj Sahu using Php and Javascript."
               link="https://github.com/shaansuraj/ChatApp"
