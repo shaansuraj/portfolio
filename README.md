@@ -1,14 +1,14 @@
 
 # Portfolio website Reactjs
 
-Browse My React js responsive Portfolio source code above. You can easily clone this Portfolio website with Sijeesh Miziha's code-less design implementation, and launch it today.
+Browse My React js responsive Portfolio source code above. You can easily clone this Portfolio website with Suraj Sahu's code-less design implementation, and launch it today.
 - 🧪 **Kindly Please Support Me**
   - I can provide brand-free products and full technical support for 1 year along with 1-year free update support and moreover
 - 👁 **Well typed**
   - Clean JavaScript code with good folder structure.,
 - 📄 **Well documented**
-  - I can provide full reference & installation documentation alongside detailed guides through my Youtube Channel Sijeesh Miziha feel free to subscribe 
-  - If You supporting me., then I can also create the full lecture video from the scratch..,you can learn React.js as beginer 
+  - I can provide full reference & installation documentation alongside detailed guides. Feel free to contact me.
+  - If you are willing to support me., then I can also create the full lecture video from the scratch..,you can learn React.js as beginer 
 - **Requirements to fork this repo**
    - Minimal knowledge of JavaScript
    - React js, react-bootstrap
