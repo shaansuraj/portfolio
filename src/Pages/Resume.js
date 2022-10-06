@@ -2,8 +2,8 @@ import React from 'react'
 import { Container, Row} from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Components/Particles/Particle";
- import resume from "../Assets/resume1.png";
- import project from "../Assets/project-his.png";
+ import resume from "../Assets/resume1.jpg";
+ import project from "../Assets/project-his.jpg";
  import pdf from "../Assets/resume.pdf"
 
 
