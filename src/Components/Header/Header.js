@@ -32,6 +32,17 @@ function Header() {
 
   window.addEventListener("scroll", scrollHandler);
 
+//   new page rendering (smooth scroll to top)
+    
+      const navigate = useNavigate();
+    const smoothDirect = () => {
+        window.scroll({
+            top: 0,
+            left: 0,
+            behavior: "smooth",
+        });
+    }
+  
   return (
     <Navbar
       expanded={expand}
@@ -44,7 +55,7 @@ function Header() {
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
-            updateExpanded(expand ? false : "expanded");
+            updateExpanded(expand ? false : "expanded");smoothDirect
           }}
         >
           <span></span>
@@ -54,7 +65,7 @@ function Header() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/" onClick={() => updateExpanded(false); smoothDirect}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
@@ -63,7 +74,7 @@ function Header() {
               <Nav.Link
                 as={Link}
                 to="/about"
-                onClick={() => updateExpanded(false)}
+                onClick={() => updateExpanded(false); smoothDirect}
               >
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
@@ -73,7 +84,7 @@ function Header() {
               <Nav.Link
                 as={Link}
                 to="/projects"
-                onClick={() => updateExpanded(false)}
+                onClick={() => updateExpanded(false); smoothDirect}
               >
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
@@ -87,7 +98,7 @@ function Header() {
               <Nav.Link
                 as={Link}
                 to="/resume"
-                onClick={() => updateExpanded(false)}
+                onClick={() => updateExpanded(false);smoothDirect}
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
@@ -97,7 +108,7 @@ function Header() {
               <Nav.Link
                 as={Link}
                 to="/contact"
-                onClick={() => updateExpanded(false)}
+                onClick={() => updateExpanded(false);smoothDirect}
               >
                 <AiOutlineMessage style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
