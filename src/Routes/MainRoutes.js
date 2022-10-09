@@ -7,32 +7,34 @@ import Resume from "../Pages/Resume";
 import Header from "../Components/Header/Header"
 import Footer from "../Components/Footer/Footer";
 import Contact from '../Pages/Contact';
+import ScrollToTop from '../Components/ScrollToTop';
 
-function MainRoutes() {
+const MainRoutes = ()=> {
     return (
+      
             <Router>
+            <ScrollToTop/>
                 <Header/>
                 <Route exact path="/">
                     <Home/>
                  </Route>
-                 <Route path="/home">
+                 <Route path="/home" component={Home}>
                     <Home/>
                  </Route>
-                 <Route path="/about">
+                 <Route path="/about" component={About}>
                     <About/>
                  </Route>
-                 <Route path="/projects">
+                 <Route path="/projects" component={Projects}>
                     <Projects/>
                  </Route>
-                 <Route path="/resume">
+                 <Route path="/resume" component={Resume}>
                     <Resume/>
                  </Route>
-                 <Route path="/contact">
+                 <Route path="/contact" component={Contact}>
                     <Contact/>
                  </Route>
                  <Footer/>
-                 
-           </Router>
+                 </Router>
     )
 }
 
