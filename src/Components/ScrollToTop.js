@@ -9,6 +9,5 @@ class ScrollToTop extends Component {
   render() {
     return <React.Fragment />;
   }
-  onUpdate={window.scrollTo(0, 0)}
 }
 export default withRouter(ScrollToTop); 
