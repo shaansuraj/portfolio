@@ -14,8 +14,8 @@ import {  SiFirebase } from "react-icons/si";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        href = "https://cplusplus.com/doc/"
+      <Col xs={4} md={2} className="tech-icons"  href = "https://cplusplus.com/doc/" >
+       
         <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
