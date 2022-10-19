@@ -109,6 +109,7 @@ function Header() {
                 href="https://github.com/shaansuraj/"
                 target="_blank"
                 className="fork-btn-inner"
+                rel = "noopener noreferrer"
               >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
