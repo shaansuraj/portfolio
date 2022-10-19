@@ -106,7 +106,7 @@ function Header() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/shaansuraj/portfolio"
+                href="https://github.com/shaansuraj/"
                 target="_blank"
                 className="fork-btn-inner"
               >
