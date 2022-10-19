@@ -63,7 +63,7 @@ function SelfIntro() {
                 <a
                   href="https://github.com/shaansuraj"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
@@ -74,7 +74,7 @@ function SelfIntro() {
                 <a
                   href="https://www.linkedin.com/in/shaansuraj/"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
@@ -84,7 +84,7 @@ function SelfIntro() {
                 <a
                   href="https://www.instagram.com/shaan.suraj/"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
