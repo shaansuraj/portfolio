@@ -29,7 +29,7 @@ function SelfIntro() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies  &nbsp;</b> and also passionate
+                <b className="purple">Web Technologies  &nbsp;</b> and I am also passionate
                 about all things in  &nbsp;<b className="purple">Cloud Architecture</b>
               </i>
               <br />
