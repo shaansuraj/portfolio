@@ -6,7 +6,7 @@ import Container from "react-bootstrap/Container";
 
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
+import { CgWebsite } from "react-icons/cg";
 
 import {
   AiFillStar,
@@ -111,7 +111,7 @@ function Header() {
                 className="fork-btn-inner"
                 rel = "noopener noreferrer"
               >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
+                <CgWebsite style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillStar style={{ fontSize: "1.1em" }} />
               </Button>
             </Nav.Item>
