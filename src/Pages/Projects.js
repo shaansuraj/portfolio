@@ -33,6 +33,15 @@ function Projects() {
 
           <Col md={6} className="project-card">
             <ProjectCards
+              imgPath="https://drive.google.com/file/d/1TDx9d1lTPO5d5WHzvg3rsh8b65YEb7Ih/view?usp=sharing
+              title="Quick Mask VPN"
+              description="Quick Mask VPN is an android application which allows you to connect to a VPN. You can avail premium subscription in it to enjoy extraordinary services too."
+              link="https://drive.google.com/file/d/1WpszI161uEAi3qkQkk0rF26CLp1wRmGe/view?usp=sharing"
+            />
+          </Col>
+
+          <Col md={6} className="project-card">
+            <ProjectCards
               imgPath="https://drive.google.com/uc?export=download&id=1LR73TZdsb6DsPb63UOa_3os7Krl5R6m7"
               title="Magic-Notes"
               description="It is a simple wesite where you can add and delete your notes. The notes will be stored in the local storage. Suraj Sahu has developed this website using Javascript and Php"              link="https://github.com/shaansuraj/Magic-Notes"
