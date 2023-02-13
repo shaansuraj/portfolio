@@ -33,7 +33,7 @@ function Projects() {
 
           <Col md={6} className="project-card">
             <ProjectCards
-              imgPath="https://drive.google.com/file/d/1TDx9d1lTPO5d5WHzvg3rsh8b65YEb7Ih/view?usp=sharing
+              imgPath="https://drive.google.com/uc?export=download&id=1TDx9d1lTPO5d5WHzvg3rsh8b65YEb7Ih"
               title="Quick Mask VPN"
               description="Quick Mask VPN is an android application which allows you to connect to a VPN. You can avail premium subscription in it to enjoy extraordinary services too."
               link="https://drive.google.com/file/d/1WpszI161uEAi3qkQkk0rF26CLp1wRmGe/view?usp=sharing"
