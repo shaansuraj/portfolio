@@ -19,7 +19,7 @@ function AboutCard() {
             <br />
            <br />
             <br />
-            😏 Apart from this, I am a AWS Cloud Practioner Trainee and have done DevOPs with AWS.
+            😏 Apart from this, I am a AWS Solution Architect Trainee and currently learning DevOps with AWS.
  
           </p>
           
