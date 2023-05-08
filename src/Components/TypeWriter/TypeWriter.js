@@ -6,10 +6,13 @@ function TypeWriter() {
     <Typewriter
       options={{
         strings: [
-          "Blogger at lostpioneer.co",
-          "MERN Stack Developer",
-          "AWS Cloud Practioner Trainee",
-          "CEO at The Homifiers",
+          "SEO Expert",
+          "WordPress Developer",
+          "Prompt Engineer",
+          "Automation Engineer",
+          "4 Tech Stack Developer",
+          "AWS, Azure, GCP Cloud Practioner Trainee",
+          "Founder, and CEO at ProGeeks",
         ],
         autoStart: true,
         loop: true,
