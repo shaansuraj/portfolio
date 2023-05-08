@@ -15,7 +15,7 @@ function AboutCard() {
             <br /> 🥱🥱🥱 I am pursuing my Bachelor's degree in Computer Science and Engineering from Institute of Technical Education and Research <br /> <br />
            <br />
             
-            😊 I am a MERN Stack Developer with hands-on experience in Cloud Computing with AWS. I have knowledge of DSA, OS, ML and Automation.
+            😊 I like adding Founder, CEO at ProGeeks with my name. I am a MERN Stack Developer with hands-on experience in Cloud Computing with AWS. I have knowledge of DSA, OS, ML and Automation.
             <br />
            <br />
             <br />
