@@ -18,12 +18,11 @@ function SelfIntro() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+               My name is Suraj Sahu and I am the Founder, and CEO of ProGeeks.
               <br />
-              <br />I am fluent in classics like
+              <br />I have multi-year experience in 
               <i>
-                <b className="purple"> Java and JavaScript. </b>
+                <b className="purple"> SEO, Development, Content Writing. </b>
               </i>
               <br />
               <br />
@@ -50,7 +49,7 @@ function SelfIntro() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="Suraj Sahu" />
             </Tilt>
           </Col>
         </Row>
