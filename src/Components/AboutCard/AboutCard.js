@@ -9,17 +9,17 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             😉😉😉 Hi Everyone, My Self <span className="purple">Suraj Sahu </span>
-            I am a 2nd Year BTech Student from <span className="purple"> Bhubaneswar, India </span>
+            I am a 3rd Year BTech Student from <span className="purple"> Bhubaneswar, India </span>
             <br />
             
             <br /> 🥱🥱🥱 I am pursuing my Bachelor's degree in Computer Science and Engineering from Institute of Technical Education and Research <br /> <br />
            <br />
             
-            😊 I like adding Founder, CEO at ProGeeks with my name. I am a MERN Stack Developer with hands-on experience in Cloud Computing with AWS. I have knowledge of DSA, OS, ML and Automation.
+            😊 I like adding CTO at BrandLadder with my name. I am a Backend Developer with hands-on experience in Cloud Technologies. I have knowledge of DSA, Cloud, Multiple Tech Stacks, OS, ML and Automation.
             <br />
            <br />
             <br />
-            😏 Apart from this, I am a AWS Solution Architect Trainee and currently learning DevOps with AWS.
+            😏 Apart from this, I am also a well known poet and writer.
  
           </p>
           
