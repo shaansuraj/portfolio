@@ -7,12 +7,11 @@ function TypeWriter() {
       options={{
         strings: [
           "SEO Expert",
-          "WordPress Developer",
+          "Backend Developer",
           "Prompt Engineer",
-          "Automation Engineer",
+          "Cloud Enthusiast",
           "4 Tech Stack Developer",
-          "AWS, Azure, GCP Cloud Practioner Trainee",
-          "Founder, and CEO at ProGeeks",
+          "CTO at BrandLadder",
         ],
         autoStart: true,
         loop: true,
