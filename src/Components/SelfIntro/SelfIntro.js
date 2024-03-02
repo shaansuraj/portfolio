@@ -18,7 +18,7 @@ function SelfIntro() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-               My name is Suraj Sahu and I am the Chief Technology Officer of ProGeeks.
+               My name is Suraj Sahu and I am the Chief Technology Officer of BrandLadder.
               <br />
               <br />I have multi-year experience in 
               <i>
