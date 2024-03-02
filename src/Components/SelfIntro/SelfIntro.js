@@ -18,23 +18,23 @@ function SelfIntro() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-               My name is Suraj Sahu and I am the Founder, and CEO of ProGeeks.
+               My name is Suraj Sahu and I am the Chief Technology Officer of ProGeeks.
               <br />
               <br />I have multi-year experience in 
               <i>
-                <b className="purple"> SEO, Development, Content Writing. </b>
+                <b className="purple"> Backend and Cloud Technologies. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies  &nbsp;</b> and I am also passionate
-                about all things in  &nbsp;<b className="purple">Cloud Architecture</b>
+                <b className="purple">Backend Technologies  &nbsp;</b> and I am also passionate
+                about all things in  &nbsp;<b className="purple">Technologies</b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">MERN Stack</b> and
+              with <b className="purple">Multiple Tech Stacks</b> and
               
                 <b className="purple">
                   {" "}
@@ -43,7 +43,7 @@ function SelfIntro() {
              
               &nbsp; like
               
-                <b className="purple"> Three.js and Next.js</b>
+                <b className="purple"> NodeJs</b>
               
             </p>
           </Col>
